@@ -4,8 +4,6 @@
 
 ### Welcome to my GitHub! 👋 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [BrewShop](https://github.com/BrewShop/BrewShop). A full stack homebrew app store.
 - 🌱 I’m currently learning NodeJS so I can do further backend work.
 - 😃 I’m looking to collaborate on any web based projects 
@@ -15,3 +13,7 @@ Here are some ideas to get you started:
 - 💖 Pronouns: I'm a trans girl who goes by she/her!
 - ⚡ Fun fact: Coffee is my favorite drink!
 
+### Stats 📈
+
+<img src="https://github-readme-stats.vercel.app/api/?username=multimegamander&show_icons=true&include_all_commits=true&count_private=true&theme=light&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multimegamander&show_icons=true&include_all_commits=true&count_private=true&theme=light&layout=compact" />
